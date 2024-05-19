@@ -4,7 +4,7 @@ This is a new page 👋
 
 
 ## Education
-![image info](https://github.com/ghoshabhik/ghoshabhik.github.io/blob/main/assets/images/index.jpg)
+![image info](https://raw.githubusercontent.com/ghoshabhik/ghoshabhik.github.io/main/assets/images/index.jpg)
 
 ## Work Experience 
 

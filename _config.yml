@@ -4,3 +4,5 @@ show_downloads: false
 show_downloads_button: false
 google_analytics:
 theme: jekyll-theme-slate
+
+include: ['assests/css/custom.css']

@@ -1,10 +1,12 @@
-# Data Scientist
+# About Me 
 
-This is a new page 👋
-
+Hello! I'm Abhik 👋 
+<p>
+</p>
+I have worked with several clients to design and create data solutions to empower their businesses with actionable insights. My expertise spans data warehousing, cloud data migration, data lake design, and performance tuning
 
 ## Education
-![image info](https://raw.githubusercontent.com/ghoshabhik/ghoshabhik.github.io/main/assets/images/index.jpg)
+
 
 ## Work Experience 
 
@@ -19,3 +21,4 @@ This is a new page 👋
 
 
 ## Contact 
+![image info](https://raw.githubusercontent.com/ghoshabhik/ghoshabhik.github.io/main/assets/images/index.jpg)
